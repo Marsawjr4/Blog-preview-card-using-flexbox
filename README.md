@@ -1,4 +1,4 @@
-# Frontend Mentor - Blog preview card
+# Frontend Mentor - [Blog preview card](https://marsawjr4.github.io/Blog-preview-card-using-flexbox/)
 
 ![Design preview for the Blog preview card coding challenge](./preview.jpg)
 
